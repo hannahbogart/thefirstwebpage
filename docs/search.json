@@ -16,8 +16,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "About Me",
+    "title": "The Tired One",
     "section": "",
-    "text": "Thanks for checking out my web site!"
+    "text": "Potato!\n\n\n\nPotato!\n\n\n\nPotato!\nThanks for checking out my web site! Potato!"
+  },
+  {
+    "objectID": "index.html#goals",
+    "href": "index.html#goals",
+    "title": "The Tired One",
+    "section": "",
+    "text": "Potato!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "The Tired One",
+    "section": "",
+    "text": "Potato!"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "The Tired One",
+    "section": "",
+    "text": "Potato!"
   }
 ]
