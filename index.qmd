@@ -1,14 +1,15 @@
 ---
-title: "About Me"
+title: "The Tired One"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/IMG_8259.jpg
 ---
 
 :::{#me}
 
 ## Goals
+
 
 ## Education
 
