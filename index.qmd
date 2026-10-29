@@ -1,5 +1,6 @@
 ---
 title: "The Tired One"
+subtitle: "AKA Hannah"
 about:
   id: me
   template: broadside
@@ -9,18 +10,14 @@ about:
 :::{#me}
 
 ## Goals
-
-Potato!
-
+Rest enough to take on the world 
 
 ## Education
-
-Potato!
+School of Youtube and hard knocks 
 
 ## Experience
-
-Potato!
+Tired since 1994
 
 :::
 
-Thanks for checking out my web site! Potato!
+Rest Up, revolution starts tomorrow! 
