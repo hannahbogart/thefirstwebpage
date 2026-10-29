@@ -3,7 +3,7 @@ project:
   output-dir: docs
   
 website:
-  title: "The First Webpage"
+  title: "This Girl is Tired"
   navbar:
     left:
       - href: index.qmd
@@ -20,7 +20,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: solar
     toc: true
 
 editor: source
